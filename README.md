@@ -14,6 +14,7 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  <img align="center" height="30" width="40" src="https://simpleicons.org/icons/microsoftsqlserver.svg">
   <img align="center" src="https://icongr.am/devicon/java-original-wordmark.svg?size=40&color=ffffff">
   </div>
   
